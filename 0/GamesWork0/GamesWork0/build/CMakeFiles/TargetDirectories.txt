@@ -1,0 +1,3 @@
+D:/GAMES/HomeWork/0/GamesWork0/GamesWork0/build/CMakeFiles/GamesWork0.dir
+D:/GAMES/HomeWork/0/GamesWork0/GamesWork0/build/CMakeFiles/ALL_BUILD.dir
+D:/GAMES/HomeWork/0/GamesWork0/GamesWork0/build/CMakeFiles/ZERO_CHECK.dir

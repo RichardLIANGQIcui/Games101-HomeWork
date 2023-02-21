@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\GAMES\HomeWork\0\GamesWork0\GamesWork0\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\GAMES\HomeWork\0\GamesWork0\GamesWork0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2F7443F3-7DD6-3900-B01E-3658D45E2C25}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

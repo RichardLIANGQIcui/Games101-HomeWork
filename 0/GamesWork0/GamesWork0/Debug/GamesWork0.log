@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES\作业\0\GamesWork0\GamesWork0\main.cpp(20,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\作业\0\GamesWork0\GamesWork0\main.cpp(20,20): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\作业\0\GamesWork0\GamesWork0\main.cpp(20,37): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\作业\0\GamesWork0\GamesWork0\main.cpp(20,45): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  GamesWork0.vcxproj -> D:\GAMES\作业\0\GamesWork0\Debug\GamesWork0.exe
