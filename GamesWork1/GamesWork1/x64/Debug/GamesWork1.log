@@ -1,0 +1,45 @@
+﻿  main.cpp
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\main.cpp(51,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\main.cpp(101,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\main.cpp(109,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\main.cpp(110,10): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\main.cpp(177,56): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\main.cpp(198,56): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(43,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(44,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(45,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(46,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(54,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(55,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(56,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(60,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(61,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(62,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(64,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(64,29): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(86,33): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(86,30): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(94,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(95,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(96,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(100,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(101,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(102,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(104,32): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(104,29): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(125,33): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(125,30): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(148,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(149,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(174,27): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(175,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\1\GamesWork1\GamesWork1\rasterizer.cpp(248,12): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  正在生成代码...
+  GamesWork1.vcxproj -> D:\GAMES\HomeWork\1\GamesWork1\x64\Debug\GamesWork1.exe
