@@ -1,0 +1,57 @@
+﻿  main.cpp
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\ZGKEJIDATXX\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(41,1): warning C4305: “=”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(43,1): warning C4305: “=”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(47,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(47,41): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(56,1): warning C4305: “=”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(58,1): warning C4305: “=”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(61,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(62,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(65,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(66,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(69,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(70,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(73,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(74,12): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(77,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(77,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(80,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(80,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(83,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(83,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(86,54): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\Texture.hpp(86,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\OBJ_Loader.h(951,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(63,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(101,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(134,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(142,15): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(143,10): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(188,45): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(190,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(237,45): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(239,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(279,45): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(281,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(296,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(296,26): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(309,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(310,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(315,51): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(317,54): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(330,45): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(332,48): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(347,16): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(347,26): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(360,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(361,10): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(363,52): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(365,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(484,56): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(505,56): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(520,16): warning C4305: “-=”: 从“double”到“float”截断
+D:\GAMES\HomeWork\3\GamesWork3\GamesWork1\main.cpp(524,16): warning C4305: “+=”: 从“double”到“float”截断
+  GamesWork1.vcxproj -> D:\GAMES\HomeWork\3\GamesWork3\x64\Debug\GamesWork1.exe
