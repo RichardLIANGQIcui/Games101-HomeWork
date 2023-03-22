@@ -1,0 +1,25 @@
+﻿  main.cpp
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\global.hpp(35,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\global.hpp(61,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Ray.hpp(17,67): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Ray.hpp(17,49): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Ray.hpp(17,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Ray.hpp(23,31): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Bounds3.hpp(21,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Bounds3.hpp(21,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Bounds3.hpp(21,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Bounds3.hpp(22,35): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Bounds3.hpp(22,27): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Bounds3.hpp(22,19): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Scene.hpp(19,27): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\OBJ_Loader.hpp(945,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Triangle.hpp(126,1): warning C4305: “=”: 从“double”到“float”截断
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Triangle.hpp(191,23): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\Triangle.hpp(194,1): warning C4305: “参数”: 从“double”到“float”截断
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\memory(3416,56): warning C4244: “参数”: 从“_Ty”转换到“float”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\GAMES\HomeWork\6\GamesWork6\GamesWork6\main.cpp(17): message : 查看对正在编译的函数 模板 实例化“std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,int,0>(Vector3f &&,int &&)”的引用
+  GamesWork6.vcxproj -> D:\GAMES\HomeWork\6\GamesWork6\x64\Debug\GamesWork6.exe
