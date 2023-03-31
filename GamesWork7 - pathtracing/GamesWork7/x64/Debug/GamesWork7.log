@@ -1,0 +1,30 @@
+﻿  Renderer.cpp
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\global.hpp(21,45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\global.hpp(23,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\global.hpp(48,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Ray.hpp(16,73): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Ray.hpp(16,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Ray.hpp(16,37): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Ray.hpp(22,71): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Bounds3.hpp(20,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Bounds3.hpp(20,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Bounds3.hpp(20,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Bounds3.hpp(21,41): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Bounds3.hpp(21,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Bounds3.hpp(21,25): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Material.hpp(106,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Material.hpp(116,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Material.hpp(123,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Material.hpp(124,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Material.hpp(242,39): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Material.hpp(253,34): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Scene.hpp(23,30): warning C4305: “参数”: 从“double”到“float”截断
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Scene.hpp(25,27): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(12,60): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(14,30): warning C4305: “初始化”: 从“double”到“float”截断
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(69,38): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(82,26): warning C4018: “<”: 有符号/无符号不匹配
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(84,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(85,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GAMES\HomeWork\7\GamesWork7 - 副本\GamesWork7\Renderer.cpp(90,87): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+  GamesWork7.vcxproj -> D:\GAMES\HomeWork\7\GamesWork7 - 副本\x64\Debug\GamesWork7.exe
